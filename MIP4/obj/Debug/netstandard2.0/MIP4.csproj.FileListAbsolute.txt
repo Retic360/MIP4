@@ -1,0 +1,8 @@
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\bin\Debug\netstandard2.0\MIP4.deps.json
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\bin\Debug\netstandard2.0\MIP4.dll
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\obj\Debug\netstandard2.0\MIP4.csprojResolveAssemblyReference.cache
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\obj\Debug\netstandard2.0\MIP4.csproj.CoreCompileInputs.cache
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\obj\Debug\netstandard2.0\MIP4.App.xaml.g.cs
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\obj\Debug\netstandard2.0\MIP4.MainPage.xaml.g.cs
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\obj\Debug\netstandard2.0\MIP4.AssemblyInfoInputs.cache
+C:\Users\Numa\source\repos\MIP4\MIP4\MIP4\obj\Debug\netstandard2.0\MIP4.AssemblyInfo.cs
